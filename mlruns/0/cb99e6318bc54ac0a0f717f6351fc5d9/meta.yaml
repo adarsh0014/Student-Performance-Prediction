@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Programs/Machine%20Learning/MLProject/mlruns/0/cb99e6318bc54ac0a0f717f6351fc5d9/artifacts
+end_time: 1760510297768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb99e6318bc54ac0a0f717f6351fc5d9
+run_name: unleashed-moose-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760510284114
+status: 3
+tags: []
+user_id: root

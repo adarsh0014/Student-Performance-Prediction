@@ -3,6 +3,7 @@ import sys
 from src.mlproject.logger import logging
 from src.mlproject.exception import CustomException
 import pandas as pd
+import cryptography
 from dataclasses import dataclass
 from src.mlproject.utils import read_sql_data
 from sklearn.model_selection import train_test_split
